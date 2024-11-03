@@ -5,7 +5,7 @@ main(){
 	reverse();
 	pallindrome();
 	biggest3();
-	sum2numbers();
+	sum2number();
 	fibonacci();
 
 }

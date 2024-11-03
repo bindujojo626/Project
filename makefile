@@ -16,5 +16,4 @@ sum2.o:sum2.c
 	gcc -c sum2.c
 fibo.o:fibo.c
 	gcc -c fibo.c
-sort.o:sort.c
-	gcc -c sort.c
+
